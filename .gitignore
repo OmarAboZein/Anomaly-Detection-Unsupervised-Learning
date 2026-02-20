@@ -1,2 +1,16 @@
-/creditcard.csv 
-/testenv
+# Data
+/creditcard.csv
+
+# Virtual environment
+/testenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
